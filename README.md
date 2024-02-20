@@ -13,13 +13,15 @@
 ## Skills
 | Frontend           | Backend                         | Tools/Platforms               |
 |--------------------|---------------------------------|-------------------------------|
-| ASP.NET            | C#                              | Git, Visual Studio            |
-| .NET Framework     | SQL                             | Azure DevOps                  |
-| Blazor             | .NET Core                        |                               |
-| CSS, Bootstrap     | Asp.Net Web Api                  |                               |
-| MS SQL Server      | LINQ                            |                               |
-| Azure Cosmos DB    | Entity Framework                 |                               |
-| Back End Developer | Azure Functions                  |                               |
+| Blazor             | C#                              | Git, Visual Studio            |
+| CSS, Bootstrap     | .NET Core                        | Azure DevOps                  |
+|                   | Asp.Net Web Api                  |                               |
+|                   | MS SQL Server                    |                               |
+|                   | LINQ                            |                               |
+|                   | Azure Cosmos DB                  |                               |
+|                   | Entity Framework                 |                               |
+|                   | Back End Developer               |                               |
+|                   | Azure Functions                  |                               |
 
 ## Technical Skills
 | Languages        | Frameworks/Libraries         | Database            | Others             |
@@ -35,7 +37,7 @@
 [LinkedIn Profile](https://www.linkedin.com/in/cvam29/)
 
 ## Summary
-Experienced .NET Developer with 2 years of coding, testing, and debugging. Proficient in C#, Python, .NET Core, Blazor, Git, and Azure DevOps. Actively seeks growth, stays updated on software development, and is committed to high-quality solutions.
+Experienced .NET Developer with 2 years of hands-on coding, testing, and debugging expertise. Proficient in C#, Python, .NET Core, Blazor, Git, and Azure DevOps. Actively seeks growth, stays updated on software development, and is committed to high-quality solutions.
 
 ## Education
 | Degree               | Course      | College                          | Year of Passing | Grade |
@@ -46,6 +48,14 @@ Experienced .NET Developer with 2 years of coding, testing, and debugging. Profi
 | Class X              | CBSE        | English Medium                   | 2013            | 100%  |
 
 ## Work Experience
+### Software Engineer at Compose Tech Private Ltd
+| Period            | Responsibilities and Achievements                                                          |
+|-------------------|--------------------------------------------------------------------------------------------|
+| Jan 2024 - Present | - Enhanced and maintained E-commerce website.                                                |
+|                   | - Implemented jobs for cart clearing and Algolia content indexing.                             |
+|                   | - Developed and optimized supply chain functionality.                                        |
+|                   | - Implemented Blob Trigger Queues for real-time file processing.                               |
+
 ### Software Engineer at Welkin Digital Pvt Ltd
 | Period            | Responsibilities and Achievements                                                          |
 |-------------------|--------------------------------------------------------------------------------------------|
@@ -55,6 +65,7 @@ Experienced .NET Developer with 2 years of coding, testing, and debugging. Profi
 |                   | - Integrated with Squidex CMS for efficient content management.                               |
 |                   | - Collaborated with Auth0 for user data and access security.                                  |
 
+
 ### .NET Software Developer at Novacept
 | Period            | Responsibilities and Achievements                                                          |
 |-------------------|--------------------------------------------------------------------------------------------|
@@ -63,13 +74,6 @@ Experienced .NET Developer with 2 years of coding, testing, and debugging. Profi
 |                   | - Implemented PDF Document Generation and Ledgers for optimized documentation.               |
 |                   | - Led creation of WebAPIs for the Guarantor Module.                                          |
 
-### Software Engineer at Compose Tech Private Ltd
-| Period            | Responsibilities and Achievements                                                          |
-|-------------------|--------------------------------------------------------------------------------------------|
-| Jan 2024 - Present | - Enhanced and maintained E-commerce website.                                                |
-|                   | - Implemented jobs for cart clearing and Algolia content indexing.                             |
-|                   | - Developed and optimized supply chain functionality.                                        |
-|                   | - Implemented Blob Trigger Queues for real-time file processing.                               |
 
 ## Projects
 ### NovaEstate (11 Months)
