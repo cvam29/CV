@@ -1,4 +1,4 @@
-# Resume
+# Shivam Panchal
 
 ## Contact Information
 | Mobile | Email                |
